@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhatDidYouWatch</string>
+    <string name="userNameTextView">Password:</string>
+    <string name="usernameTextView">Username:</string>
+    <string name="loginBtn">Login</string>
+    <string name="changePasswordBtn">Change Password</string>
+    <string name="createAccountBtn">Create Account</string>
+    <string name="passwordTooltip">password</string>
+    <string name="loginFailed">The username or password are incorrect</string>
+    <string name="loginSuccess">Login was successful</string>
+    <string name="addMovie">Add a Movie</string>
+    <string name="showMovieList">Show Movies</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="movieNameText">Movie name</string>
+    <string name="addMovieBtn">Add Movie</string>
+    <string name="listItem">Default</string>
+</resources>
